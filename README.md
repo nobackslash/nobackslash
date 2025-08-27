@@ -3,6 +3,11 @@
 
 <p>Welcome to my page! </br> I'm Pedro, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Paulo, Brazil.</b></p>
 <h3>Things I code with</h3>
+<br>
+<details> 
+  <summary>Tarefa de Design Profissional (Palavra Cifrada)</summary>
+   <b>WCUTLPMWPV</b>
+</details>
 <p>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -19,6 +24,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+
+
 
 ![image](https://github.com/user-attachments/assets/e851e20f-9bcc-46fc-bc52-3ba0becc23e6)
 
